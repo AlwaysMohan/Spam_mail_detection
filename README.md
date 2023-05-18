@@ -1,3 +1,3 @@
 # Spam_mail_detection
-Here , This is basically a website that will detect spam mails which are received on your device. This makes your device safe from fake emails.
+Here is a website that will detect spam emails in your device.
 This is made using (numpy,pandas) or Jupyter notebook.
